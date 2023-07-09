@@ -1,11 +1,11 @@
 ## Demo code for:
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YangLiuqing-add/FCDNet?style=plastic)    
-![GitHub stars](https://img.shields.io/github/stars/YangLiuqing-add/FCDNet?style=social)
-![GitHub followers](https://img.shields.io/github/followers/FCDNet?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YangLiuqing-add/FCDNet?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/YangLiuqing-add/FCDNet?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/YangLiuqing-add/SLKNet?style=plastic)    
+![GitHub stars](https://img.shields.io/github/stars/YangLiuqing-add/SLKNet?style=social)
+![GitHub followers](https://img.shields.io/github/followers/SLKNet?style=social)
+![GitHub forks](https://img.shields.io/github/forks/YangLiuqing-add/SLKNet?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/YangLiuqing-add/SLKNet?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/YangLiuqing-add?style=social)
 
 **SLKNet: An Attention-based Deep Learning Framework for Downhole Distributed Acoustic Sensing Data Denoising**
