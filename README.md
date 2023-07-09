@@ -19,7 +19,7 @@
 ## Reference
 If you find this package useful, please do not forget to cite the following paper.
 
-    Yang, L., Fomel, S., Wang, S., Chen, X., Y, Chen., and Chen, Y., (2023). SLKNet: An Attention-based Deep Learning Framework for Downhole Distributed Acoustic Sensing Data Denoising, Geophysics, doi: 10.1190/geo2022-0724.1.
+    Yang, L., Fomel, S., Wang, S., Chen, X., Chen, Y., and Chen, Y., (2023). SLKNet: An Attention-based Deep Learning Framework for Downhole Distributed Acoustic Sensing Data Denoising, Geophysics, doi: 10.1190/geo2022-0724.1.
     
 BibTeX:
 	
