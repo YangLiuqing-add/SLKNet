@@ -39,14 +39,15 @@ BibTeX:
   
 -------------------    
 ## Dependence Packages
-* Tensforflow-gpu 1.9.0 
-* Keras 2.2.5
-
+* Tensforflow-gpu 2.4.1
+* numpy: 1.19.5 
+* Keras 2.11.0
+* GPU: GeForce RTX 3090 Ti
 -------------------   
 ## Example
 
-   The FORGE DAS data can be downloaded [here](https://github.com/chenyk1990/dasdenoising-dataonly).
-   The SAFOD DAS data can be downloaded [here](https://github.com/chenyk1990/dasmrrcoh-dataonly).
+   The FORGE DAS dataset can be downloaded [here](https://github.com/chenyk1990/dasdenoising-dataonly).
+   The SAFOD DAS dataset can be downloaded [here](https://github.com/chenyk1990/dasmrrcoh-dataonly).
 -------------------   
 ## Contact
     If you have any suggestions or questions, please contact me:
