@@ -37,17 +37,35 @@ BibTeX:
     GNU General Public License, Version 3
     (http://www.gnu.org/copyleft/gpl.html)  
   
--------------------    
+------------------    
 ## Dependence Packages
-* Tensforflow-gpu 2.4.1
+* Tensforflow-gpu: 2.4.1
 * numpy: 1.19.5 
-* Keras 2.11.0
+* Keras: 2.11.0
 * GPU: GeForce RTX 3090 Ti
 -------------------   
 ## Example
 
    The FORGE DAS dataset can be downloaded [here](https://github.com/chenyk1990/dasdenoising-dataonly).
    The SAFOD DAS dataset can be downloaded [here](https://github.com/chenyk1990/dasmrrcoh-dataonly).
+
+You can click here to download the FORGE DAS data, including training and test datasets. Make sure you have the following folder structure in the data directory after you unzip the file:
+
+```bash
+Data
+  ├──FORGE
+      ├── Train
+           ├── Clean
+                ├── Clean_1.mat
+                ├── Clean_2.mat
+                .
+                .
+                ├── Clean_29.mat
+                └── Clean_30.mat
+           └── Test
+                ├── FORGE_example1.mat
+                └── FORGE_example2.mat
+```
 -------------------   
 ## Contact
     If you have any suggestions or questions, please contact me:
