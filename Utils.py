@@ -89,7 +89,7 @@ def TD(inp,filters,stride):
     x = Conv2D(filters, 3, padding = 'same')(inp)
     x = BatchNormalization()(x)
     x = Activation('relu')(x)
-    x = x
+    x = MaxPooling2D(stride)(x)
     return x
 
 def TU(inpt_img,stride,D1, dropout):
@@ -98,7 +98,6 @@ def TU(inpt_img,stride,D1, dropout):
     C1 = Activation('relu')(C1)
     C1 = Dropout(dropout)(C1)
     return C1
-
 
 def SK(inputs, m=2, r=8, L=32, kernel=4):
     d = max(int(kernel / r), L)
